@@ -8,4 +8,4 @@ The backend APIs support following functionalities:
 3. Ability to fetch particular registered card by id
 
 ## Frontend features
-The frontend app supports user to registerd new credit card and list registered credit cards.
+The frontend app supports user to register new credit card and list registered credit cards.
